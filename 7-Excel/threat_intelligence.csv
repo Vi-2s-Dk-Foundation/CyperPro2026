@@ -1,0 +1,201 @@
+IOC,Threat Type
+CVE-2024-8165,Malicious File Hash (SHA-256)
+CVE-2023-2766,Malicious IP
+CVE-2022-3332,Phishing Domain
+c4db0e1076d9c344f40549b13b939ccbb170a1d5dc79599441a0e9be324f9a1b,Botnet C2
+chung.org,Botnet C2
+robbins.com,Remote Code Execution
+morales-carrillo.com,Remote Code Execution
+CVE-2024-5462,Phishing Domain
+diaz.com,Botnet C2
+223.253.176.92,Remote Code Execution
+23994de8c3bb9d63df154bd45e2b4563a8156ee044d1e324ac3ccd4891bf8002,Botnet C2
+9a15a54aedd653b98bca57019245bd7a432ab8b3f32e0fdb972d976bf8682854,Phishing Domain
+197.249.47.74,Remote Code Execution
+CVE-2024-1122,Malicious File Hash (SHA-256)
+johnson.com,Malicious File Hash (SHA-256)
+164.188.166.175,Malicious IP
+edc7365cd8b90381e95ef717da2009c4d8e45e676457e11573e152086389e6e8,Malicious File Hash (SHA-256)
+c4de2c5f03e5ac968dff2289930659e86e391d8388560352c72148c5f22c0115,Malicious IP
+hurley.biz,Known Attacker
+CVE-2023-2119,Phishing Domain
+176.191.137.99,Malicious IP
+mills.info,Phishing Domain
+9924938c7a3f52e96d867dba4a9b7a17335aa5d5230638964594db32f90c9939,Botnet C2
+190.171.223.224,Malicious File Hash (SHA-256)
+76.179.3.134,Known Attacker
+beck.com,Phishing Domain
+a3d68398ec8de1a46b5bfcf0b8f74198e71c364dcac14fd7596e9386a4a9ce52,Remote Code Execution
+221.10.242.241,Malicious File Hash (SHA-256)
+196.19.242.3,Botnet C2
+557d349a9e5778d5f5894d1c7d9d756081ac2469a6926a103006db93c64e6828,Malicious IP
+16.221.21.86,Botnet C2
+216.219.111.20,Malicious IP
+174.186.88.200,Malicious IP
+hurley.info,Botnet C2
+6c6b1d9dc61cd8f0d1a222faf9ae7195c5e55566ff6e2d43329e4ed2085c87e1,Malicious File Hash (SHA-256)
+brooks-mitchell.com,Phishing Domain
+84.102.206.154,Remote Code Execution
+169.31.13.6,Known Attacker
+newman.org,Malicious File Hash (SHA-256)
+CVE-2024-2221,Remote Code Execution
+martin.com,Malicious IP
+CVE-2023-8019,Phishing Domain
+holland-hansen.com,Remote Code Execution
+5ae1cebc6b943986e4e9489533d440bfb6f11e4ec87fc468e2b7c437c3eb425d,Phishing Domain
+195.55.84.151,Phishing Domain
+CVE-2020-4237,Botnet C2
+aguilar-davis.biz,Malicious File Hash (SHA-256)
+CVE-2022-6247,Remote Code Execution
+220.75.27.239,Malicious IP
+fa86c704ce851b6fc252bbee33f0f70e705f71daeaf82e3aa5f72b026184032b,Known Attacker
+207.168.225.150,Remote Code Execution
+hoffman.net,Botnet C2
+213.191.194.202,Malicious File Hash (SHA-256)
+brown.com,Known Attacker
+bfde4f8642a9b8b097322fbc622b7e262beea9b4659207e28e4f1d792140a331,Malicious File Hash (SHA-256)
+massey-andrews.com,Malicious File Hash (SHA-256)
+CVE-2023-8072,Remote Code Execution
+CVE-2024-2588,Remote Code Execution
+146.49.216.228,Malicious File Hash (SHA-256)
+78e64dcd69f878374ca4aa0a812d15ad7c589fb4bcc6df903e1cc902c8e17ae2,Malicious IP
+189.100.95.249,Remote Code Execution
+CVE-2021-4345,Malicious File Hash (SHA-256)
+149.151.231.63,Known Attacker
+142.223.164.67,Known Attacker
+182.130.253.174,Known Attacker
+215.219.233.226,Known Attacker
+10e6c8bdd841b1e08b79705305b95ff4338da76b0127803a55ddf6093bc4ba61,Remote Code Execution
+b9891ce764580a9428e82fd252cd2470547ced2e957410ee9e0350b5f685e09e,Phishing Domain
+204.162.55.195,Remote Code Execution
+CVE-2020-7064,Phishing Domain
+aa1a689baea6006b09c0a7c550f7258b96e25c10cadb268085795a7857b08bac,Malicious IP
+smith.info,Malicious File Hash (SHA-256)
+johnson-williams.com,Malicious IP
+0a17f6eacfe75365d1eea72b10f278e26f669a4db1e9b8fb4fc4693dd966d6dc,Botnet C2
+CVE-2023-8953,Known Attacker
+176.164.39.163,Known Attacker
+a676135017264d9132861a2c267e5910da88e338784ea2ec131a89ef970ec487,Malicious File Hash (SHA-256)
+peterson-gardner.com,Known Attacker
+CVE-2020-7733,Remote Code Execution
+adams.info,Malicious IP
+a0170e35c6a50eb61b8abe8941b89ea3039d09150172524463a014345034fc02,Known Attacker
+654a542f731ec2babc3603a995fe230919a63fcf9d936ffd1ed33ce2eb304af2,Malicious File Hash (SHA-256)
+CVE-2022-6627,Known Attacker
+CVE-2024-8514,Malicious IP
+anderson.info,Remote Code Execution
+cf509dca9bc26bb209e18dc11931ccb84e36765f2c4fec4de7a998862be762bd,Phishing Domain
+71441b45ecff01922c97fb5228763c10ad3d2f398be4492a5b97eeb6b22e6d4c,Known Attacker
+80.149.134.110,Phishing Domain
+kim-wong.com,Remote Code Execution
+f7d3c73dadf813ad7fe3551b61e640c61df7d2fad15c6d7a269d9e295905d478,Known Attacker
+decker.com,Malicious IP
+CVE-2020-4331,Botnet C2
+reyes.com,Remote Code Execution
+mcguire.info,Phishing Domain
+CVE-2021-8615,Botnet C2
+carpenter.net,Known Attacker
+141.121.143.210,Phishing Domain
+CVE-2024-7030,Malicious IP
+hoffman.com,Malicious File Hash (SHA-256)
+216.197.236.75,Malicious File Hash (SHA-256)
+b4e54dfd6a7bb88129211e4f30c7e63b26f49efcf66d1e759476381b52fc7e8c,Phishing Domain
+8.43.48.127,Malicious IP
+CVE-2023-6995,Remote Code Execution
+harris.com,Botnet C2
+217.136.149.183,Malicious File Hash (SHA-256)
+jones.com,Malicious File Hash (SHA-256)
+carpenter-garrett.com,Botnet C2
+knight.biz,Malicious IP
+CVE-2021-1688,Botnet C2
+180.142.89.247,Malicious IP
+logan.com,Malicious IP
+CVE-2022-7311,Malicious IP
+130.52.88.217,Botnet C2
+172.82.128.212,Remote Code Execution
+CVE-2022-7302,Botnet C2
+carter.org,Phishing Domain
+34cd3fa7bf124f7545c6e3d6d5360bc864ff071455e4dfd4c97dc943b194790c,Malicious IP
+frederick.com,Botnet C2
+159.158.13.179,Malicious File Hash (SHA-256)
+sandoval.com,Malicious File Hash (SHA-256)
+CVE-2023-3666,Malicious IP
+201.248.176.173,Malicious IP
+CVE-2024-2363,Malicious IP
+203.127.16.240,Malicious File Hash (SHA-256)
+CVE-2022-4667,Phishing Domain
+29.250.169.118,Known Attacker
+69.240.85.71,Malicious IP
+191.105.68.213,Phishing Domain
+osborne-dean.biz,Malicious File Hash (SHA-256)
+7743617e87f59be024ea67882a5cea462456734d11be5c6e398a237ac7008d52,Phishing Domain
+CVE-2022-4371,Malicious IP
+baker-castro.com,Phishing Domain
+murray-miller.net,Botnet C2
+johnston.org,Phishing Domain
+odonnell.com,Phishing Domain
+161.8.241.152,Botnet C2
+741acc14789eb8029d61795023d83ec94d8ef20308e82fc7d88f2f729aceac36,Botnet C2
+CVE-2024-9180,Phishing Domain
+CVE-2021-3026,Remote Code Execution
+46153f82cce8d214735d7aa13e04024d4a6baf0731cb550a69ee9c26f48c5329,Botnet C2
+170.203.195.140,Remote Code Execution
+fitzgerald.org,Phishing Domain
+CVE-2022-2314,Malicious File Hash (SHA-256)
+calderon.biz,Malicious IP
+CVE-2022-7871,Malicious IP
+f695da525c158bfaa58b52e2c46a4a211086842b023e68325b885f78b8d32620,Botnet C2
+CVE-2022-7955,Botnet C2
+frye.com,Remote Code Execution
+461ae1005d9f511e567ec2ffdb7f5f9ed75d9ea024227188a78e3d6c5b814ef2,Known Attacker
+2c7a472a720c972111fdd323da0fc9bceb74f2ac07a56aebba84ed15264dda5d,Phishing Domain
+3bf3fd945c45aaf841fd184381e9bb407388dd4034747d49e982d5c618483925,Remote Code Execution
+CVE-2021-1235,Remote Code Execution
+102.207.62.136,Malicious File Hash (SHA-256)
+CVE-2024-8184,Phishing Domain
+CVE-2022-3635,Botnet C2
+207.29.204.122,Phishing Domain
+3fa13f24f8c2a0c7e1737f440ad48db3a0884cd65d536c2ea05358d4501e9170,Malicious IP
+123.180.207.75,Known Attacker
+CVE-2022-4674,Known Attacker
+CVE-2022-6961,Remote Code Execution
+49.202.40.193,Malicious IP
+41.4.116.171,Malicious File Hash (SHA-256)
+174.202.129.190,Malicious IP
+7ad79276ee0e2a4b06c92c5c23144974102d0d030df81814265f82d5c1a8ec7f,Botnet C2
+980799fd745451ea117d39299e3f333065c1af1dea02513eaa1c7feb1885891b,Known Attacker
+CVE-2023-2712,Malicious File Hash (SHA-256)
+murphy.com,Known Attacker
+CVE-2024-2058,Remote Code Execution
+12.5.70.21,Malicious IP
+36.173.40.16,Known Attacker
+CVE-2020-4093,Botnet C2
+219.204.87.152,Known Attacker
+cook.info,Malicious IP
+johnson.org,Botnet C2
+CVE-2024-9139,Remote Code Execution
+CVE-2023-1764,Malicious File Hash (SHA-256)
+213.255.98.174,Remote Code Execution
+CVE-2020-9063,Phishing Domain
+CVE-2023-4577,Botnet C2
+CVE-2024-4616,Malicious IP
+CVE-2024-8015,Phishing Domain
+219.44.199.190,Botnet C2
+168.16.39.181,Known Attacker
+193.133.133.73,Known Attacker
+morrow-patel.net,Phishing Domain
+133.182.126.245,Known Attacker
+8d7421dd200e77013e0fe66c45e202de3934b9c8acc520846f08618edbafca9c,Botnet C2
+CVE-2024-8572,Phishing Domain
+grant.com,Malicious IP
+CVE-2023-6324,Malicious IP
+hunt.com,Malicious File Hash (SHA-256)
+CVE-2021-7181,Known Attacker
+CVE-2022-6325,Botnet C2
+gordon.org,Malicious File Hash (SHA-256)
+wyatt.com,Malicious File Hash (SHA-256)
+78.161.31.186,Malicious IP
+50fdb5a7b915b9b221a6fb4d12c26526c397066fc9b78a69083f039e28375117,Malicious IP
+CVE-2023-6480,Known Attacker
+ae1b3ee177ea0177925bbff3edd3c4ea6ef6a27c0e8207d727b3bb448e1cf760,Remote Code Execution
+00531cc82284bca44bc2b4a21262d6efbcdcc2468baa7434d60c0bf55885075d,Known Attacker
