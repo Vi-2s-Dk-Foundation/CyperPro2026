@@ -60,7 +60,6 @@ with open("vulnerability_scan.csv", "w", newline="") as csvfile:
     writer.writerow(["Hostname", "IP Address", "Vulnerability ID", "Severity", "Operating System"])
     writer.writerows(vulnerability_data)
 
-
 threat_intel_data = generate_threat_intel(200)  # Generate 200 entries
 with open("threat_intelligence.csv", "w", newline="") as csvfile:
     writer = csv.writer(csvfile)
